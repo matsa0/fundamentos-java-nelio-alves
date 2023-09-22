@@ -1,0 +1,5 @@
+Good afternoon
+Good evening
+and
+Good night
+Testin writting in files!
